@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" alt="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" />
+
 <h1 align="center">Hi There, I'm Garvit Jhalani👦</h1>
 <h3 align="center">A Full Stack Web developer🎯 and designer🎨 from India.</h3>
 
